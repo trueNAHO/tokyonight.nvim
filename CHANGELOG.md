@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/folke/tokyonight.nvim/compare/v2.0.0...v2.0.1) (2023-06-24)
+
+
+### Bug Fixes
+
+* **dunst:** make whitespace consistent ([#398](https://github.com/folke/tokyonight.nvim/issues/398)) ([c87654a](https://github.com/folke/tokyonight.nvim/commit/c87654a752477756652912ad3ab9b9b366606209))
+
 ## [2.0.0](https://github.com/folke/tokyonight.nvim/compare/v1.23.0...v2.0.0) (2023-06-21)
 
 
